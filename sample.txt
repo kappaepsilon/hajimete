@@ -1,6 +1,5 @@
 hoge.
 fuge.
-hogehoge
 aaaaaaaaaaa
 Insert line
 bbbbbbbbbbb
